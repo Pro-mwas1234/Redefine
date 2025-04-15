@@ -16,18 +16,15 @@ Smooth UI/UX
 🛠️ Quick Start
 Clone the repo:
 
-bash
-Copy
+
 git clone https://github.com/eMManue-L/Redefine.git
 Install dependencies:
 
-bash
-Copy
+
 npm install
 Run locally:
 
-bash
-Copy
+
 npm run dev
 📸 Connect With Me
 <a href="https://instagram.com/popa_ly_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@popa_ly_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a>
