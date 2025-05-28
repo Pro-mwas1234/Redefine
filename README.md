@@ -1,4 +1,4 @@
-Here's your completely customized README with your Instagram (popa_ly_) and a clean, professional look—no YouTube links or unnecessary sections:
+Here's your completely customized README with your Instagram (de._.hacker) and a clean, professional look—no YouTube links or unnecessary sections:
 
 Redefine ✨
 A Modern Web Experience
@@ -17,7 +17,7 @@ Smooth UI/UX
 Clone the repo:
 
 
-git clone https://github.com/eMManue-L/Redefine.git
+git clone https://github.com/pro-mwas1234/Redefine.git
 Install dependencies:
 
 
@@ -27,7 +27,7 @@ Run locally:
 
 npm run dev
 📸 Connect With Me
-<a href="https://instagram.com/popa_ly_" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@popa_ly_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a>
+<a href="https://instagram.com/de._.hacker" target="_blank"> <img src="https://img.shields.io/badge/Instagram-@de._.hacker-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a>
 📜 License
 This project is for educational use only.
 Design inspired by Zentry.
