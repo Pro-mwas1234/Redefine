@@ -43,7 +43,7 @@ const Contact = () => {
   className="special-font !md:text-[6.2rem] w-full font-zentry !text-5xl !font-black !leading-[.9]"
 />
 
-          <a href="https://www.instagram.com/popa_ly_/" target="_blank" rel="noopener noreferrer">
+          <a href="https://www.instagram.com/de._.hacker/" target="_blank" rel="noopener noreferrer">
             <Button 
               title="Just say hi" 
               containerClass="mt-10 cursor-pointer hover:scale-105 transition-transform"
